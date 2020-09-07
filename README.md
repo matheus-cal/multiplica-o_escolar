@@ -1,4 +1,4 @@
-# Projeto_10
+# Multiplier
 
 Programa que multiplica sequência de números simulando uma multiplicação manual como as aprendidas na escola. O código consiste em uma única função que recebe dois parâmetros -- o número multiplicador ("multiplicador") e o número multiplicado ("multiplicando").
 
@@ -8,11 +8,11 @@ Em seguida, outra lista é criada nomeada como "results". É feito a mutiplicaç
 
 Por fim, ajusto o layout da saída justificando a direita e substituindo os zeros a direita por espaços em branco, somando todos os produtos e retornando o resultado final da multiplicação principal.
 
-# Project_10
+# Multiplier
 
-A Program that multiplies a sequence of numbers emulating a manual multiplication as we learn at school. The algorithm consists in only one function that receives two numbers as parameters -- the multiplier number ("multiplicador") and the multiplied number ("multiplicando").
+That is program that multiplies a sequence of numbers emulating a manual multiplication as we learn at school. The algorithm consists in only one function that receives two numbers as parameters -- the multiplier number ("multiplicador") and the multiplied number ("multiplicando").
 
-This function creates a list for "multiplicando" numbers and transforms both numbers received as parameters in a string. With a "for" structure we append those numbers in that list.
+This function creates a list for "multiplicando" numbers and transforms both numbers received as parameters in a string. With a "for" structure, we append those numbers in that list.
 
 Then, another list is created and named "results". It's made a multiplication of each item from "multiplicando" numbers for each caracter from "multiplicador" variable, next it's added those products from each of those multiplications in "results" list. A 0 is added by the right of those products.
 
